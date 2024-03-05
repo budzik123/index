@@ -1,7 +1,7 @@
-# Thanos JS (demo site)
+UTKAJ
 
-Silly demo site to be used for [Netlify Drop](https://app.netlify.com/drop).
+FAJIE TAM CO NIE
 
-Preview demo site [right here](https://www.thanosjs.org).
+UTKAJ LEB(SIEA POLAKU).
 
-Thanks to [Rasmus Andersson](https://twitter.com/rsms) for creating [Inter UI font](https://rsms.me/inter/).
+ [Paweelek](DZEJKOB) for creating [Inter UI font](LOLSKI/).
